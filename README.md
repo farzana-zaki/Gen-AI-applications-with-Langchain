@@ -19,11 +19,11 @@ There are obvious reasons why such a project could be highly significant to busi
 
 From a broader perspective, the newfound ability of the best Large Language Models (beyond 1 billion parameters) to understand the true meaning of Natural Language commands and coherently respond to, acknowledge and fulfill them, has enabled us to usher in the next wave in the long list of automations that Computer Science has seen in its history. Translating commands into programming code, once solely the province of human developers, is now increasingly being automated by Generative AI, and we'll see many examples of the same in this project.
 
-# Project Objective:
+## Project Objective:
 
 In this project, a LangChain agent has been utilized as a Data Science Assistant and a Data Retriever Assistant, with the capacity to perform a range of tasks including data analysis, machine learning modeling, relational database querying, and RAG generation for contextual questions from documents or the web. The agent keeps generating commands until it obtains the response the user wants, iterating until it satisfies their question or reaches the set limit.
 
-# Recommendations:
+## Recommendations:
 
 • This project can significantly impact businesses and research sectors, as it automates repetitive tasks and frees up more time for strategic work in the realms of Data Analysis, Data Science, and Database Querying.
 
